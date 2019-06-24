@@ -4,3 +4,22 @@ title, h1, p {
     font-family: 'Libre Baskerville', serif;
 }
 
+body {
+    margin: 0;
+    line-height: 1.7;
+}
+
+.poem {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+    float: left;
+    position: relative;
+    left: -50%;
+}
