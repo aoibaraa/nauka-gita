@@ -1,0 +1,8 @@
+autoprefixer-cli ma czytaæ z pliku style.css i zapisywaæ wynik do pliku style.prefixed.css :
+
+autoprefixer-cli -o style.prefixed.css style.css
+
+
+nu-html-checker ma wyœwietlaæ listê b³êdów we wszystkich plikach .html. :
+
+nu-html-checker *.html
